@@ -1,7 +1,9 @@
 # akhomelab
 
 ## Overview
-akhomelab is a self-hosted cloud-based homelab designed for:
+
+akhomelab is my self-hosted cloud-based homelab designed for:
+
 - **Analytics**: ETL pipelines, dashboards, BI, and reporting
 - **Automation**: CI/CD, workflow orchestration, and scripting
 - **ML & AI**: Self-hosted models, experimentation, and AI services
@@ -14,6 +16,7 @@ akhomelab/
 │── analytics/            # ETL scripts, dashboards, reporting
 │── ml-ai/                # ML models, AI services, experimentation
 │── notebooks/            # Jupyter notebooks for analytics & ML experiments
+│── python/               # Scripts
 │── .github/workflows/    # GitHub Actions for automation
 │── docker-compose.yml    # Docker Compose setup for services
 │── README.md             # Project overview & setup instructions
